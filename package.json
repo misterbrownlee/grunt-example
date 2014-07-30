@@ -1,0 +1,15 @@
+{
+  "name": "grunt-example",
+  "version": "0.0.0",
+  "description": "An example of some grunt things I want to remember",
+  "repository": "git@github.com:tehfoo/grunt-example.git",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "postinstall": "npm i -D grunt grunt-contrib-clean load-grunt-config",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/tehfoo",
+  "license": "FREE",
+  "devDependencies": {
+  }
+}
